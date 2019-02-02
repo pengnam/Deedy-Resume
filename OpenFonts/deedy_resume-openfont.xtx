@@ -65,8 +65,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Sean}{Ng}{ \urlstyle{same}\href{http://pengnam.github.io}{pengnam.github.io}| \\
-\href{mailto:seanngpengnam@u.nus.edu}{seanngpengnam@u.nus.edu}
+\namesection{Sean}{Ng}{ \urlstyle{same}\href{http://pengnam.github.io}{pengnam.github.io} |
+\href{mailto:seanngpengnam@u.nus.edu}{seanngpengnam@u.nus.edu} | +65 9726 4799
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -102,7 +102,7 @@ Graduate Speaker
 
 \section{Links}
 Github:// \href{https://github.com/pengnam}{\bf pengnam} \\
-LinkedIn://  \href{https://www.linkedin.com/in/debarghyadas}{\bf debarghyadas} \\
+LinkedIn://  \href{https://www.linkedin.com/in/sean-ng-117268117/}{\bf sean ng} \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -164,7 +164,9 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 
 \runsubsection{99.co}
 \descript{| Software Engineering Intern }
-\location{May 2018 - Aug 2018 | Singapore}
+\location{May 2018 - Aug 2018 | Singapore\\
+Property tech start-up funded by Sequoia, Quest Ventures, 500 Startups and Eduardo Saverin
+}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item Developed and deployed company's data pipeline system. (Airflow, Python)
@@ -186,7 +188,7 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 \location{Dec 2017 – Jan 2018 | Singapore}
 \begin{tightemize}
 \item
-Created machine learning models that predicted timeseries data with 93% accuracy with no lag using stacked
+Created machine learning models that predicted timeseries data with 93\% accuracy with no lag using stacked
 autoencoders and MLP.
 \end{tightemize}
 \sectionsep
@@ -208,14 +210,14 @@ Built with Django, GoogleMaps API, D3.js.
 \sectionsep
 
 \runsubsection{Cinnabot}
-\descript{| Telegram bot built in Golang currently in use by NUS students}
+\descript{| Residential Assistant}
 Built in Golang, managed with systemctl.
 Used by about 140 users per week, 0 downtime.
 \sectionsep
 
 \runsubsection{Kaggle}
 \descript{| Data Science competitions}
-Top 20% in various competitions.
+Top 20\% in various competitions.
 https://www.kaggle.com/pengnam
 \sectionsep
 
