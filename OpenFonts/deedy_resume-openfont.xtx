@@ -66,7 +66,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Sean}{Ng}{ \urlstyle{same}\href{http://pengnam.github.io}{pengnam.github.io}| \\
-\href{mailto:deedy@fb.com}{deedy@fb.com} | 607.379.5733 | \href{mailto:dd367@cornell.edu}{dd367@cornell.edu}
+\href{mailto:seanngpengnam@u.nus.edu}{seanngpengnam@u.nus.edu}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -207,9 +207,16 @@ Determines a better location to hail a taxi, and display statistics and relevant
 Built with Django, GoogleMaps API, D3.js.
 \sectionsep
 
-\runsubsection{Gandalf}
-\descript{| Real-time visualisation of all aircrafts}
-Microservices based architecture (Docker), Kafka, websockets, DeckGL for front-end.
+\runsubsection{Cinnabot}
+\descript{| Telegram bot built in Golang currently in use by NUS students}
+Built in Golang, managed with systemctl.
+Used by about 140 users per week, 0 downtime.
+\sectionsep
+
+\runsubsection{Kaggle}
+\descript{| Data Science competitions}
+Top 20% in various competitions.
+https://www.kaggle.com/pengnam
 \sectionsep
 
 
