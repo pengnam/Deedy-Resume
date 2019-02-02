@@ -183,7 +183,7 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 
 \runsubsection{NUS Datathon}
 \descript{| 2nd Place}
-\location{Jan 2013 – May 2013 | Singapore}
+\location{Dec 2017 – Jan 2018 | Singapore}
 \begin{tightemize}
 \item
 Created machine learning models that predicted timeseries data with 93% accuracy with no lag using stacked
@@ -219,21 +219,6 @@ Top 20% in various competitions.
 https://www.kaggle.com/pengnam
 \sectionsep
 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards}
-\begin{tabular}{rll}
-2014	     & top 52/2500  & KPCB Engineering Fellow\\
-2014	     & 1\textsuperscript{st}/50  & Microsoft Coding Competition, Cornell\\
-2013	     & National  & Jump Trading Challenge Finalist\\
-2013     & 7\textsuperscript{th}/120 & CS 3410 Cache Race Bot Tournament  \\
-2012     & 2\textsuperscript{nd}/150 & CS 3110 Biannual Intra-Class Bot Tournament \\
-2011     & National & Indian National Mathematics Olympiad (INMO) Finalist \\
-\end{tabular}
-\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
