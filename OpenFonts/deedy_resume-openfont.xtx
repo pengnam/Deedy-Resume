@@ -83,15 +83,18 @@
 
 \section{Education}
 
-\subsection{National University of Singapore}
-\descript{Bachelors of Computing}
-\location{May 2017 - July 2020}
+\subsection{National University of
+Singapore}
+\descript{B. Comp. (Computer Science)\\
+Second Major in Statistics \\
+University Scholars Program}
+\location{Expected July 2020}
 \location{ CAP: 4.81 / 5.0 }
 \sectionsep
 
 \subsection{National Junior College}
 \descript{Highschool}
-\location{}
+\location{Grad. 2014}
 Graduate Speaker
 \sectionsep
 
@@ -127,20 +130,23 @@ Monte Carlo Methods
 
 \section{Skills}
 \subsection{Programming}
-\location{Over 5000 lines:}
-Java \textbullet{}   Shell \textbullet{} Python \textbullet{} Javascript \\
-OCaml \textbullet{} Matlab \textbullet{} Rails \textbullet{} \LaTeX\ \\
-\location{Over 1000 lines:}
-C \textbullet{} C++ \textbullet{} CSS \textbullet{} PHP \textbullet{} Assembly \\
 \location{Familiar:}
-AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
+Python | Java | Golang\\
+\location{Experienced:}
+SQL |NoSQL |  Linux | C | Javascript | Tensorflow | Docker | Kafka | React | Django
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Awards}
-
+\begin{tabular}{rll}
+2018    & 2\textsuperscript{nd} place NUS Datathon\\
+2014    & Graduate Speaker\\
+2012    & Silver - Singapore Math Olym.\\
+2012    & Silver - APCYS \\
+\end{tabular}
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -159,37 +165,37 @@ AS3 \textbullet{} iOS \textbullet{} Android \textbullet{} MySQL
 \section{Experience}
 \runsubsection{Garena}
 \descript{| Software Engineering Intern }
-\location{Incoming May 19 | Singapore}
+\location{Incoming May 2019 | Singapore}
+Interning under SEA Group, one of the leading tech companies in South East Asia.
 \sectionsep
 
 \runsubsection{99.co}
 \descript{| Software Engineering Intern }
-\location{May 2018 - Aug 2018 | Singapore\\
-Property tech start-up funded by Sequoia, Quest Ventures, 500 Startups and Eduardo Saverin
-}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\location{May 2018 - Aug 2018 | Singapore}
+Property tech start-up funded by Sequoia, 500 Startups and Eduardo Saverin.
+\vspace{\topsep}
 \begin{tightemize}
-\item Developed and deployed company's data pipeline system. (Airflow, Python)
-\item Developed tools that collect application metrics, alert staff during crises. (Python)
-\item Wrote web crawlers for key services (Python)
+\item \textbf{Developed and deployed} company's data pipeline system, actively in use by company's data team. Over \textbf{50\% faster} than previous system. (Airflow, Python)
+\item \textbf{Developed tools} that collect application metrics, alert staff during \textbf{server or data failure}. (Python)
+\item Wrote web crawlers for key services. (Python)
 \end{tightemize}
 \sectionsep
 
-\runsubsection{NUS}
+\runsubsection{National University of Singapore}
 \descript{| Teaching Assistant }
 \location{Jan 2018 - Present | Singapore}
 \begin{tightemize}
-\item Conducted tutorials to undergraduate students, marked assignments, created missions used by over hundreds of students yearly.
+\item \textbf{Conducted tutorials} to undergraduate students, marked assignments, \textbf{created missions} \textbf{used by over 400} students yearly.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{NUS Datathon}
-\descript{| 2nd Place}
-\location{Dec 2017 – Jan 2018 | Singapore}
+\runsubsection{Computational Chemistry Research}
+\descript{| Researcher }
+\location{ Jan 2010 - Dec 2014 | Singapore}
 \begin{tightemize}
-\item
-Created machine learning models that predicted timeseries data with 93\% accuracy with no lag using stacked
-autoencoders and MLP.
+\item Simulated models using shell scripting and machine learning techniques.
+\item Published paper in \textbf{Scientific Reports, Nature}.
+\item Presented at post-graduate conferences, locally and overseas.
 \end{tightemize}
 \sectionsep
 
@@ -198,26 +204,31 @@ autoencoders and MLP.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Projects}
+\runsubsection{National University of Singapore Datathon}
+\descript{| 2nd Place}
+Created machine learning models that predicted timeseries data with \textbf{93\% accuracy} with no lag using \textbf{stacked
+autoencoders and MLP}.
+\sectionsep
+
 \runsubsection{Gandalf}
 \descript{| Real-time visualisation of all aircrafts}
-Microservices based architecture (Docker), Kafka, websockets, DeckGL for front-end.
+\textbf{Microservices based }architecture with Docker, Kafka, websockets, DeckGL for front-end.
 \sectionsep
 
 \runsubsection{TaxiBros}
 \descript{| Web dashboard for taxi travels}
-Determines a better location to hail a taxi, and display statistics and relevant graph for routes.
-Built with Django, GoogleMaps API, D3.js.
+Determines a better location to hail a taxi, and \textbf{display statistics and relevant graphs} for routes.
+(Django, GoogleMaps API, D3.js)
 \sectionsep
 
 \runsubsection{Cinnabot}
 \descript{| Residential Assistant}
-Built in Golang, managed with systemctl.
-Used by about 140 users per week, 0 downtime.
+Used by about \textbf{140 users per week, 0 downtime}. (Golang, Systemctl)
 \sectionsep
 
 \runsubsection{Kaggle}
 \descript{| Data Science competitions}
-Top 20\% in various competitions.
+\textbf{Top 20\%} in various competitions. (Python)\\
 https://www.kaggle.com/pengnam
 \sectionsep
 
@@ -227,7 +238,6 @@ https://www.kaggle.com/pengnam
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Publications}
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
 \bibliographystyle{abbrv}
 \bibliography{publications}
 \nocite{*}
