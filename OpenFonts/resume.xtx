@@ -45,7 +45,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\documentclass[]{deedy-resume-openfont}
+\documentclass[]{resume}
 \usepackage{fancyhdr}
 
 \pagestyle{fancy}
@@ -88,7 +88,7 @@ Singapore}
 \descript{B. Comp. (Computer Science)\\
 Second Major in Statistics \\
 University Scholars Program}
-\location{Expected May 2021}
+\location{Expected Dec 2020}
 \location{ CAP: 4.81 / 5.0 }
 \sectionsep
 
