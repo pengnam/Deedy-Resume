@@ -65,7 +65,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Sean}{Ng}{ \urlstyle{same}\href{http://pengnam.github.io}{pengnam.github.io} |
+\namesection{Sean}{Ng}{ \urlstyle{same}\href{https://seanngpengnam.com}{seanngpengnam.com} |
 \href{mailto:seanngpengnam@gmail.com}{seanngpengnam@gmail.com} | +65 9726 4799
 }
 
@@ -105,7 +105,7 @@ Graduate Speaker
 
 \section{Links}
 Github:// \href{https://github.com/pengnam}{\bf pengnam} \\
-LinkedIn://  \href{https://www.linkedin.com/in/sean-ng-117268117/}{\bf sean ng} \\
+LinkedIn://  \href{https://www.linkedin.com/in/pengnam/}{\bf pengnam} \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -116,7 +116,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/sean-ng-117268117/}{\bf sean ng} 
 \subsection{Computer Science}
 Distributed Systems and Algorithms \\
 Information Retrieval \\
-Machine Learning 
+Machine Learning
 \sectionsep
 
 \subsection{Statistics}
@@ -133,7 +133,7 @@ Monte Carlo Methods
 \location{Most experience in:}
 Java | Python | Golang \\
 \location{Experienced:}
-Kafka | Elasticsearch | Lucene | React | Django | SQL | NoSQL | Unix | C | Javascript | Java | Tensorflow | Docker 
+Kafka | Elasticsearch | Lucene | React | Django | SQL | NoSQL | Unix | C | Javascript | Java | Tensorflow | Docker
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    AWARDS
