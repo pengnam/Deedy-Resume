@@ -88,7 +88,7 @@ Singapore}
 \descript{B. Comp. (Computer Science)\\
 Second Major in Statistics \\
 University Scholars Program}
-\location{Expected Dec 2020}
+\location{Expected May 2021}
 \location{ CAP: 4.81 / 5.0 }
 \sectionsep
 
@@ -133,7 +133,7 @@ Monte Carlo Methods
 \location{Most experience in:}
 Java | Python | Golang \\
 \location{Experienced:}
-Kafka | Elasticsearch | Lucene | React | Django | SQL | NoSQL | Unix | C | Javascript | Java | Tensorflow | Docker
+Kafka | Elasticsearch | Lucene | React | Django | RoR | SQL | NoSQL | Unix | C | Javascript | Tensorflow | Docker
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    AWARDS
@@ -166,10 +166,20 @@ Kafka | Elasticsearch | Lucene | React | Django | SQL | NoSQL | Unix | C | Javas
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
+\protected\def\hrefvcZfr{\href{https://about.google}}
+\runsubsection{\hrefvcZfr{Google}}
+\descript{| Software Engineering Intern }
+\location{Incoming Sep 2019 - Dec 2019 | Mountain View }
+\vspace{\topsep}
+\begin{tightemize}
+\item Working on full-stack related projects for Google Ads
+\end{tightemize}
+\sectionsep
+
 \protected\def\hrefvcZfr{\href{https://www.crunchbase.com/organization/garena}}
 \runsubsection{\hrefvcZfr{SEA(Garena)}}
 \descript{| Software Engineering Intern }
-\location{May 2019 - Present | Singapore}
+\location{May 2019 - Aug 2019 | Singapore}
 %Interning under SEA, one of the leading tech companies in South East Asia.
 \vspace{\topsep}
 \begin{tightemize}
@@ -218,10 +228,10 @@ Kafka | Elasticsearch | Lucene | React | Django | SQL | NoSQL | Unix | C | Javas
 Residential assistant that disseminates announcements to topic subscribers, provides a feedback channel, and provisions useful information such as bus times. Used by about \textbf{140 users per week, 0 downtime}. (Golang, telegram)
 \sectionsep
 
-\runsubsection{\href{https://github.com/pengnam/real-time-aircraft-visualization}{Gandalf}}
-\descript{| Real-time visualisation of all aircrafts}
-Web dashboard that displays, in real-time, positions of all aircrafts in the world. \textbf{Microservices based }architecture with Docker, Kafka, websockets, DeckGL for front-end.
-\sectionsep
+%\runsubsection{\href{https://github.com/pengnam/real-time-aircraft-visualization}{Gandalf}}
+%\descript{| Real-time visualisation of all aircrafts}
+%Web dashboard that displays, in real-time, positions of all aircrafts in the world. \textbf{Microservices based }architecture with Docker, Kafka, websockets, DeckGL for front-end.
+%\sectionsep
 
 \runsubsection{National University of Singapore Datathon}
 \descript{| 2nd Place}
