@@ -85,8 +85,7 @@
 
 \subsection{National University of \\
 Singapore}
-\descript{B. Comp. (Computer Science)\\
-Second Major in Statistics \\
+\descript{B. Comp. (Computer Science)
 University Scholars Program}
 \location{Expected May 2021}
 \location{ CAP: 4.70/ 5.0 }
@@ -113,17 +112,10 @@ LinkedIn://  \href{https://www.linkedin.com/in/pengnam/}{\bf pengnam} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\subsection{Computer Science}
 Distributed Systems and Algorithms \\
 Information Retrieval \\
 Machine Learning
-\sectionsep
 
-\subsection{Statistics}
-Bayesian Inference \\
-Regression Analysis \\
-Monte Carlo Methods
-\sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -131,9 +123,11 @@ Monte Carlo Methods
 \section{Skills}
 \subsection{Programming}
 \location{Most experience in:}
-Java | Python | Golang \\
+Python | Golang \\
 \location{Experienced:}
-Kafka | Elasticsearch | Lucene | React | Django | RoR | SQL | NoSQL | Unix | C | Javascript | Tensorflow | Docker
+Java | Javascript | C \\
+\location{Frameworks & Tools:}
+Kafka | Elasticsearch | Lucene | React | Django | RoR | SQL | NoSQL | PostgresSQL | Redis | Unix | Tensorflow | Docker | Kubernetes
 \sectionsep
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    AWARDS
