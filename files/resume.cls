@@ -49,7 +49,7 @@ Last Updated on \today
 \color{headings}
 \fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #3}
 \noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}}
-\vspace{-15pt}
+\vspace{5pt}
 }
 
 % Section seperators

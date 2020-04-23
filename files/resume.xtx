@@ -66,8 +66,10 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Sean}{Ng}{ \urlstyle{same}\href{https://seanngpengnam.com}{seanngpengnam.com} |
-\href{mailto:seanngpengnam@gmail.com}{seanngpengnam@gmail.com} | +65 9726 4799
+\href{mailto:seanngpengnam@gmail.com}{seanngpengnam@gmail.com} | +65 9726 4799 
 }
+%\textit{US Visa eligibility: Eligible for the FTA H-1B1 visa. H-1B1 has a separate quota from the traditional H-1B
+%Visa and is guaranteed}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -75,7 +77,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth}
+\begin{minipage}[t]{0.30\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
@@ -126,9 +128,19 @@ Machine Learning
 Python | Golang \\
 \location{Experienced:}
 Java | Javascript | C \\
-\location{Frameworks & Tools:}
-Kafka | Elasticsearch | Lucene | React | Django | RoR | SQL | NoSQL | PostgresSQL | Redis | Unix | Tensorflow | Docker | Kubernetes
+\location{Frameworks \& Tools:}
+Kafka | Elasticsearch | Lucene | React | Django | Rails | SQL | NoSQL | PostgresSQL | Redis | Unix | Tensorflow | Docker | Kubernetes | Hadoop
 \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     TEACHING
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Teaching}
+Data Structures and Algorithms \\
+Programming Methodology
+\sectionsep
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %    AWARDS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -153,7 +165,7 @@ Kafka | Elasticsearch | Lucene | React | Django | RoR | SQL | NoSQL | PostgresSQ
 
 \end{minipage}
 \hfill
-\begin{minipage}[t]{0.66\textwidth}
+\begin{minipage}[t]{0.68\textwidth}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -163,22 +175,23 @@ Kafka | Elasticsearch | Lucene | React | Django | RoR | SQL | NoSQL | PostgresSQ
 \protected\def\hrefvcZfr{\href{https://about.google}}
 \runsubsection{\hrefvcZfr{Google}}
 \descript{| Software Engineering Intern }
-\location{Incoming Sep 2019 - Dec 2019 | Mountain View }
+\location{Sep 2019 - Dec 2019 | Mountain View }
 \vspace{\topsep}
 \begin{tightemize}
-\item Working on full-stack related projects for Google Ads
+%\item Interned at a tooling team in Google Ads
+\item Worked on a dashboard used by executives to profile ads performance. (SQL)
+\item Worked with a team to build an internal tool that will be used by several thousand people. Received positive feedback from teammates and all code pushed to production. (Angular, TypeScript, Bazel, Java)
 \end{tightemize}
 \sectionsep
 
 \protected\def\hrefvcZfr{\href{https://www.crunchbase.com/organization/garena}}
-\runsubsection{\hrefvcZfr{SEA(Garena)}}
+\runsubsection{\hrefvcZfr{SEA(Shopee)}}
 \descript{| Software Engineering Intern }
 \location{May 2019 - Aug 2019 | Singapore}
 %Interning under SEA, one of the leading tech companies in South East Asia.
-\vspace{\topsep}
 \begin{tightemize}
 \item Designed and implemented \textbf{search service} for empty search results that serves \textbf{10\% of search traffic} in Southeast Asia's largest ecommerce platform. (Elasticsearch, Golang, Hadoop)
-\item Worked on \textbf{distributed streaming library} used by \textbf{all of team's core products}, integrated \textbf{distributed tracing}. (Kafka)
+\item Worked on \textbf{distributed streaming library} used by \textbf{all of team's core products}. (Kafka)
 \item Designed and implemented \textbf{stress tests}, experimented to determine new \textbf{search system cluster design} that can handle \textbf{200\% of the previous capacity}. (Elasticsearch, Ansible)
 \end{tightemize}
 \sectionsep
@@ -192,14 +205,6 @@ Kafka | Elasticsearch | Lucene | React | Django | RoR | SQL | NoSQL | PostgresSQ
 \begin{tightemize}
 \item \textbf{Developed and deployed} company's data pipeline system, actively in use by company's data team. Over \textbf{50\% faster} than previous system. (Airflow, Python)
 \item \textbf{Developed tools} that collect application metrics, alert staff during \textbf{server or data failure}. (Python)
-\end{tightemize}
-\sectionsep
-
-\runsubsection{National University of Singapore}
-\descript{| Teaching Assistant }
-\location{Jan 2018 - Present | Singapore}
-\begin{tightemize}
-\item \textbf{Conducted tutorials} to undergraduate students, marked assignments, \textbf{created missions} \textbf{used by over 400} students yearly.
 \end{tightemize}
 \sectionsep
 
@@ -222,10 +227,10 @@ Kafka | Elasticsearch | Lucene | React | Django | RoR | SQL | NoSQL | PostgresSQ
 Residential assistant that disseminates announcements to topic subscribers, provides a feedback channel, and provisions useful information such as bus times. Used by about \textbf{140 users per week, 0 downtime}. (Golang, telegram)
 \sectionsep
 
-%\runsubsection{\href{https://github.com/pengnam/real-time-aircraft-visualization}{Gandalf}}
-%\descript{| Real-time visualisation of all aircrafts}
-%Web dashboard that displays, in real-time, positions of all aircrafts in the world. \textbf{Microservices based }architecture with Docker, Kafka, websockets, DeckGL for front-end.
-%\sectionsep
+\runsubsection{\href{https://github.com/pengnam/real-time-aircraft-visualization}{Gandalf}}
+\descript{| Real-time visualisation of all aircrafts}
+Web dashboard that displays, in real-time, positions of all aircrafts in the world. \textbf{Microservices based }architecture with Docker, Kafka, websockets, DeckGL for front-end.
+\sectionsep
 
 \runsubsection{National University of Singapore Datathon}
 \descript{| 2nd Place}
